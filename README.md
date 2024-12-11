@@ -77,3 +77,5 @@ Effective data preprocessing and augmentation were crucial to achieving high mod
 
 **Personal Growth**  
 This project deepened my understanding of deep learning workflows and transfer learning techniques, equipping me with valuable skills for future endeavors.
+
+**Note: Due to large dataset we uploaded 100 images per folder in dataset to set an example**
