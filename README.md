@@ -75,6 +75,15 @@ Graphs of training and validation accuracy/loss trends illustrated steady improv
 **Insights**  
 Effective data preprocessing and augmentation were crucial to achieving high model performance. Adjusting parameters like batch size and learning rates significantly influenced training efficiency.  
 
+---
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
+
 **Personal Growth**  
 This project deepened my understanding of deep learning workflows and transfer learning techniques, equipping me with valuable skills for future endeavors.
 
