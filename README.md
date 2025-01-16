@@ -1,4 +1,4 @@
-# Binary-Classification-with-Transfer-Learning
+# Binary Classification with Transfer Learning
 Binary Classification with Transfer Learning Using ResNet50 : Car Detection 
 
 **1. Background and Significance**
